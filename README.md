@@ -3,3 +3,4 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 estou aprendendo a criar um repositorio pela dio, tambem aprendendo a explorar o microsoft Azure e suas ferramentas.
 explorando os recursos e aprendendo a criar uma Vm 
 laboratorio de Armazenamento no AZURE 
+.explorando microsoft entra id e como adiministrar usuarios e tipos de acesso
