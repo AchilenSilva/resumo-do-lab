@@ -4,3 +4,5 @@ estou aprendendo a criar um repositorio pela dio, tambem aprendendo a explorar o
 explorando os recursos e aprendendo a criar uma Vm 
 laboratorio de Armazenamento no AZURE 
 .explorando microsoft entra id e como adiministrar usuarios e tipos de acesso
+
+aprendendo sobre gerenciamento de custos e aprendendo a usar a calculadora 
