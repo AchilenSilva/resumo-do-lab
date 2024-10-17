@@ -10,3 +10,5 @@ aprendendo sobre gerenciamento de custos e aprendendo a usar a calculadora
 explorando a plataforma e aprendendo a bloquear recursos e impor regras com Azure policy
 
 explorando assistente do Azure e recursos de monitoramento 
+
+aprendendo a usar o Azure Arc, bíceps, infraestrutura em código, e demais ferramentas de gerenciamento e implantação 
