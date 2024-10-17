@@ -6,3 +6,5 @@ laboratorio de Armazenamento no AZURE
 .explorando microsoft entra id e como adiministrar usuarios e tipos de acesso
 
 aprendendo sobre gerenciamento de custos e aprendendo a usar a calculadora 
+
+explorando a plataforma e aprendendo a bloquear recursos e impor regras com Azure policy
